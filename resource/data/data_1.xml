@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course_list>
+	<course>
+		<course_name>Advance Math</course_name>
+		<pre_node_titles></pre_node_titles>
+	</course>
+	<course>
+		<course_name>Linear Algebra</course_name>
+		<pre_node_titles></pre_node_titles>
+	</course>
+	<course>
+		<course_name>Procedure Oriented Programming</course_name>
+		<pre_node_titles></pre_node_titles>
+	</course>
+	<course>
+		<course_name>Object Oriented Programming</course_name>
+		<pre_node_titles>Procedure Oriented Programming</pre_node_titles>
+	</course>
+	<course>
+		<course_name>College Physics</course_name>
+		<pre_node_titles>Advance Math</pre_node_titles>
+	</course>
+	<course>
+		<course_name>Digital Logic</course_name>
+		<pre_node_titles>Procedure Oriented Programming</pre_node_titles>
+	</course>
+	<course>
+		<course_name>Computer Organization</course_name>
+		<pre_node_titles>Advance Math,Procedure Oriented Programming,Digital Logic</pre_node_titles>
+	</course>
+	<course>
+		<course_name>Computer Architecture</course_name>
+		<pre_node_titles>Advance Math,Procedure Oriented Programming,Digital Logic,Computer Organization</pre_node_titles>
+	</course>
+</course_list>
